@@ -1,0 +1,31 @@
+!SESSION 2012-03-09 17:44:21.639 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_23
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=es_GT
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2012-03-09 17:44:59.565
+!MESSAGE Could not load repository template extension contributed by org.sonar.ide.eclipse.mylyn.ui with connectorKind jira
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2012-03-09 17:45:20.443
+!MESSAGE DDMS files not found: /home/rik/platform-tools/adb /home/rik/tools/hprof-conv /home/rik/tools/traceview 
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.078
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.079
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-cvs does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.087
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.087
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.096
+!MESSAGE CatalogItem org.eclipse.m2e.discovery.maven-runtime-3.0.3 does not contain lifecycle mapping metadata
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2012-03-09 17:46:20.167
+!MESSAGE CatalogItem org.codehaus.groovy.m2eclipse does not contain lifecycle mapping metadata
